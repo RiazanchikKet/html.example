@@ -1,0 +1,21 @@
+body {
+    font-size: 24px;
+}
+span.red {
+    color: red;
+}
+span.green {
+    color: green;
+}
+span.xxlarge {
+    font-size: 70px;
+}
+span.right {
+    text-align: right;
+}
+span.left {
+    text-align: left;
+}
+span.center {
+    text-align: center;
+}
